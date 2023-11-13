@@ -26,3 +26,5 @@ parte comando exemplo
 
 
 Perdão professor, esse foi o mais longe que eu consegui chegar
+
+correção, agora tem uma versão v.0.3 em que estão declarados alguns objetos que confirmam que o hibernate simplesmente não funciona, estarei postando-os em um novo branche 
